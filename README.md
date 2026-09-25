@@ -1,3 +1,5 @@
+**IMPORTANT** This repository is a mirror of work completed as a part of a project in the second year of my degree. It is no longer functional as the API isn't publically available.
+
 # Project Velodrome
 
 ![tests passing badge](./test-passing-badge.svg)
@@ -7,9 +9,9 @@
 |Contributors list|
 |----|
 |Reuben Waring|
-|Conor Sweeney stoppard|
-|George Grosvenor|
-|Amaryllis Richmond|
+|Conor Sweeney Stoppard [@ConorSS](https://github.com/ConorSS)|
+|George Grosvenor [@Georgegrosvenor06](https://github.com/Georgegrosvenor06)|
+|Amaryllis Richmond [@LunaPixu](https://github.com/LunaPixu)|
 
 ## Project goal
 
