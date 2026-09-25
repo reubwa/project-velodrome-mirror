@@ -1,4 +1,5 @@
-**IMPORTANT** This repository is a mirror of work completed as a part of a project in the second year of my degree. It is no longer functional as the API isn't publicly available. But you can [click here to view some screenshots](https://github.com/reubwa/project-velodrome-mirror/blob/main/README.md#gallery)!
+>[!IMPORTANT]
+>This repository is a mirror of work completed as a part of a project in the second year of my degree. It is no longer functional as the API isn't publicly available. But you can [click here to view some screenshots](https://github.com/reubwa/project-velodrome-mirror/blob/main/README.md#gallery)!
 
 # Project Velodrome
 
@@ -17,9 +18,9 @@
 
 ## Project goal
 
-Our goal, outlined by our client VELOCITI was to build a system for visualising and interacting with TIPLOC data via an integrated API. 
+Our goal, outlined by our client [VELOCITI](https://www.velociti-solutions.com/) was to build a system for visualising and interacting with [TIPLOC](# 'a point on the railway network (for instance, a station)') data via an integrated API. 
 
-Our project enables users to select a TIPLOC to access the timetables, displaying departure times and journey details in a sidebar whilst also plotting the route on a map for an accurate visual representation.
+Our project enables users to select a [TIPLOC](# 'a point on the railway network (for instance, a station)') to access the timetables, displaying departure times and journey details in a sidebar whilst also plotting the route on a map for an accurate visual representation.
 
 ## How to run locally
 
@@ -49,10 +50,10 @@ The server will then be accessible via <http://localhost:3000>.
 |Feature|Description|
 |----|----|
 |Line rendering| Plots a line between the Tiplocs to represent the journey.|
-|TIPLOC Filtering| A filtering system that allows users to filter the map by TIPLOC name.|
+|[TIPLOC](# 'a point on the railway network (for instance, a station)') Filtering| A filtering system that allows users to filter the map by [TIPLOC](# 'a point on the railway network (for instance, a station)') name.|
 |Timetable display| A menu which displays the timetable and journey of a train once selected.|
-|Information display| When a TIPLOC is selected, the relevant information such as Station number, will be displayed to the user.|
-|Departures display| When the departures button is selected on a TIPLOC, it will display all relevant departures. |
+|Information display| When a [TIPLOC](# 'a point on the railway network (for instance, a station)') is selected, the relevant information such as Station number, will be displayed to the user.|
+|Departures display| When the departures button is selected on a [TIPLOC](# 'a point on the railway network (for instance, a station)'), it will display all relevant departures. |
 |Live clock| A clock system which displays the live time. |
 
 ## Gallery 
@@ -83,7 +84,5 @@ A web based tool based on [react](https://react.dev/reference/react) and [leafle
 
 ||
 |----|
-|[Docs Repo](https://github.com/reubwa/velodrome-docs)|
-|[Tiploc Analysis Tool](https://github.com/reubwa/JSONist)|
 [Map identifiers](https://www.openrailwaymap.org)
 
