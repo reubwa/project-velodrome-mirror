@@ -1,4 +1,4 @@
-**IMPORTANT** This repository is a mirror of work completed as a part of a project in the second year of my degree. It is no longer functional as the API isn't publically available.
+**IMPORTANT** This repository is a mirror of work completed as a part of a project in the second year of my degree. It is no longer functional as the API isn't publicly available. But you can [click here to view some screenshots](https://github.com/reubwa/project-velodrome-mirror/blob/main/README.md#gallery)!
 
 # Project Velodrome
 
