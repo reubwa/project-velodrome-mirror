@@ -13,6 +13,8 @@
 |George Grosvenor [@Georgegrosvenor06](https://github.com/Georgegrosvenor06)|
 |Amaryllis Richmond [@LunaPixu](https://github.com/LunaPixu)|
 
+(For licensing information, [click here](LICENSE))
+
 ## Project goal
 
 Our goal, outlined by our client VELOCITI was to build a system for visualising and interacting with TIPLOC data via an integrated API. 
